@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Notes-App/static/css/main.c46aee30.chunk.css",
+    "main.js": "/Notes-App/static/js/main.b1fcaef7.chunk.js",
+    "main.js.map": "/Notes-App/static/js/main.b1fcaef7.chunk.js.map",
+    "runtime-main.js": "/Notes-App/static/js/runtime-main.46a41267.js",
+    "runtime-main.js.map": "/Notes-App/static/js/runtime-main.46a41267.js.map",
+    "static/js/2.5637472b.chunk.js": "/Notes-App/static/js/2.5637472b.chunk.js",
+    "static/js/2.5637472b.chunk.js.map": "/Notes-App/static/js/2.5637472b.chunk.js.map",
+    "index.html": "/Notes-App/index.html",
+    "static/css/main.c46aee30.chunk.css.map": "/Notes-App/static/css/main.c46aee30.chunk.css.map",
+    "static/js/2.5637472b.chunk.js.LICENSE.txt": "/Notes-App/static/js/2.5637472b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46a41267.js",
+    "static/js/2.5637472b.chunk.js",
+    "static/css/main.c46aee30.chunk.css",
+    "static/js/main.b1fcaef7.chunk.js"
+  ]
+}
