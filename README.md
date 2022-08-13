@@ -1,6 +1,6 @@
 # Notes App
 
-
+A React Application I built for taking personal notes.
 
 # Demo 
 https://sulemanbaloch2025.github.io/Notes-App/
