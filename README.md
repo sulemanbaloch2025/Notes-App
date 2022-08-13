@@ -8,7 +8,10 @@ https://sulemanbaloch2025.github.io/Notes-App/
 
 # Technologies Used
 
-CSS Modules
+CSS 
+
+Modules
+
 React.js
 
 
