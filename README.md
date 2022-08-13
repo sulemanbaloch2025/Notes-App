@@ -2,17 +2,17 @@
 
 
 
-#Demo 
+# Demo 
 https://sulemanbaloch2025.github.io/Notes-App/
 
 
-#Technologies Used
+# Technologies Used
 
 CSS Modules
 React.js
 Features
 
-#Features
+# Features
 
  User can create a note
  User can edit a note
